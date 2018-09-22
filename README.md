@@ -1,3 +1,3 @@
-# API-label-registry
+# API Label Registry
 
-Repo for registered API label types and their value spaces.
+This is the repository and registry for API labels. It keeps track of registered API label types, and of the value spaces associated with these registered API label types.
