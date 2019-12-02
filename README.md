@@ -6,14 +6,14 @@ Each registered *API label type* is represented by a *top-level folder in this r
 
 Each registered type must specific the following information:
 
-- The registered name.
-- A URI-identified specification where its meaning is documented.
-- The value space (either a string or a set of strings).
-- A brief description of its meaning.
+- The registered *name*.
+- A URI-identified *specification* where its meaning is documented.
+- The *value space* (either a string or a set of strings).
+- A brief *description* of its meaning.
 
 The following table contains the list of currently registered label types:
 
 |Name|Specification|Value Space|Description|
 |-|:-:|:-:|-|
-|`title`|[Etiketo](https://github.com/API-Labels/etiketo)|String|A short title of the described API|
-
+|`tag`|[Etiketo](https://github.com/API-Labels/etiketo)|Set of Strings|A set of tags, with each string in the set representing an individual tag.|
+|`title`|[Etiketo](https://github.com/API-Labels/etiketo)|String|A short human-readable title of the described API.|
