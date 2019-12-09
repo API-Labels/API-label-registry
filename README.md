@@ -15,6 +15,6 @@ The following table contains the list of currently registered label types:
 
 |Name|Specification|Value Space|Description|
 |-|:-:|:-:|-|
-|`tags`|[Etiketo](https://github.com/API-Labels/etiketo)|Set of Strings|A set of tags, with each string in the set representing an individual tag.|
-|`title`|[Etiketo](https://github.com/API-Labels/etiketo)|String|A short human-readable title of the described API.|
-|`version`|[Etiketo](https://github.com/API-Labels/etiketo)|String|The version identifier of the described API.|
+|`tags`|[Etiketo](https://etiketo.org/)|Set of Strings|A set of tags, with each string in the set representing an individual tag.|
+|`title`|[Etiketo](https://etiketo.org/)|String|A short human-readable title of the described API.|
+|`version`|[Etiketo](https://etiketo.org/)|String|The version identifier of the described API.|
